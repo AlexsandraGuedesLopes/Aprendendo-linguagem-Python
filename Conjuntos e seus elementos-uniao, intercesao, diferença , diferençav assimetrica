@@ -1,0 +1,11 @@
+conjunto1 = {1, 2, 3}    
+conjunto2 = {3, 7, 5}    
+Diferença_simétrica = conjunto1 ^ conjunto2
+print(Diferença_simétrica)
+uniao = conjunto1 | conjunto2
+print(uniao)
+inters = conjunto1 & conjunto2
+print( inters)
+diferença= conjunto1 - conjunto2
+print(diferença)
+
